@@ -1,0 +1,11 @@
+.work__content {
+    display: none;
+}
+
+.work__content--active {
+    display: block;
+}
+
+.work__button--active {
+    color: var(--btnBackColor);
+}

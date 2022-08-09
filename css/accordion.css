@@ -1,0 +1,13 @@
+.faq__item.accordion--active .faq-title .faq__plus svg path {
+    transform: rotate(45deg) translate(10px, -24px);
+    fill: #666666;
+    transition: all ease-in-out.3s;
+}
+
+.faq__item.accordion--active .faq-title .faq__plus svg ellipse {
+    fill: #cecece;
+}
+
+.faq__item .faq-title .faq__plus svg path {
+    transition: all ease-in-out.3s;
+}
